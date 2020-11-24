@@ -1,0 +1,8 @@
+$com: '.component__navigation-bar';
+
+#{$com} {
+    height: 60px;
+    #{$com}-title {
+        text-align: center;
+    }
+}
